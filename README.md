@@ -1,4 +1,4 @@
-received a gtade of 70%
+received a grade of 70%
 
 ## Problem Statement
 
